@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+#content{
+    display: flex;
+    justify-content: center;
+}
+canvas { 
+    background: rgb(244, 244, 161); }
+
